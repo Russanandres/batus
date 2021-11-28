@@ -1,7 +1,7 @@
 # batus.bat
 Bat script, wich contains many useful cmd commands in one place.
 
-ONLY ON RUSSIAN
+Russian and english version now
 
 ## Installing and running
 just run batus.bat.

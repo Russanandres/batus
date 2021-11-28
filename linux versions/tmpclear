@@ -1,0 +1,27 @@
+#!/bin/bash
+clear
+OPTIONS="Root User"
+select opt in $OPTIONS; do
+   if [ "$opt" = "Root" ]; then
+     clear
+     echo Отчистка /tmp с root правами...
+     echo Введите пароль для полной отчистки:
+     sudo rm -rf /tmp
+     echo Отчищено
+     sleep 3
+     clear	
+     exit
+   elif [ "$opt" = "User" ]; then
+    clear
+    echo Отчистка /tmp без root прав
+    sleep 2
+    rm -rf /tmp
+    echo Отчищено
+    sleep 3
+    clear
+    exit
+   else
+    echo это так не работает
+    exit
+   fi
+done

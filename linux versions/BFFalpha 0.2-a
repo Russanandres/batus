@@ -1,0 +1,42 @@
+#!/usr/bin/bash
+VER="0.2 alpha"
+VERMENU="5 NetGraph modded" #modded по сравнению с bat
+clear
+# echo
+# echo rB@B@B@BOqkr                   J@B@@@B@B@B@X.          7M@@@@B@B@@@2;
+# echo 8@B@@@B@B@B@B@:               ,@@@B@B@B@B@B@i         .@B@B@B@B@B@B@q
+# echo NB@BP:::;u@B@B@r              ,B@B@ZJ7LLYLu;          .@@B@MU7LLYYu:.
+# echo k@@@7     :MB@BF              .@B@B7                   @B@B2         
+# echo XB@Bv     ,Z@B@U              .B@B@7                  .B@B@1         
+# echo S@B@u    rM@BMr               .@B@BL                  .BB@Bk         
+# echo PB@B@B@B@B@@Mi                .B@B@BO8MOBM@7          .M@B@BOZMMMB@i 
+# echo S@B@B@@@B@B@B@Or              .@B@B@B@B@B@@M           @B@B@@@B@B@Bq.
+# echo X@@@J     .S@@@@F             .B@B@Xr:iirr7.          .B@B@G7:iilrrv  
+# echo S@B@v       X@B@B             .@B@Bv                   @B@BF         
+# echo PB@Bv       8B@B@     ..      .B@B@Y           .      .B@B@k         
+# echo k@B@5:...:7BB@B@v    E@@BJ    .@B@Bu         NB@BF.   .@B@@0.        
+# echo OB@@@@@B@@@B@BM:    ;@@B@B:   :B@B@5.       .@@B@B7   ,B@B@O,        
+# echo L@B@B@B@B@BG7.       8B@Bu    .@B@Bu         q@@Bk.   .MB@BN.    
+# echo
+echo	   Проснитесь и пойте мистер root, проснитесь и пойте.
+echo
+ping -i 3 -c 2 -q localhost
+clear
+date
+echo
+echo ALPHA BUILD, NOTHING WORKS # реально nothing
+echo                            #все на английском тк не смог переключить на UTF (-__-)
+echo [ver] Script version
+echo [clean] TMP clear
+echo [run] run something
+echo [off] shutdown PC
+echo [game] games
+echo [gs] google search
+echo [set] settings
+echo [x] exit
+echo
+echo SCRIPT DEVELOPMENT STOPPED # я не знаю 98% команд, что я сделаю?
+echo
+echo script version- $VER       #лол, ты читаешь?)
+echo menu version- $VERMENU
+echo                            #если ты дочитал, то ставь лайк, подпис....

@@ -18,8 +18,8 @@ The source code is clearly open source.
 - [ ] Make Linux mobile version
 - [ ] Make Android version
 - [ ] Make Debian LiveCD with batusLin.sh and android-platform-tools
-- [ ] Make MacOS x86 verison (or port linux ver)
+- [x] Make MacOS x86 verison (or port linux ver)
 - [ ] All tasks complited :tada:
 
-## Linux verisons
-All new linux versions here: https://github.com/Russanandres/batus-linux
+## MacOS and Linux verisons
+All new MacOs and linux versions here: https://github.com/Russanandres/batus-linux

@@ -14,9 +14,8 @@ The source code is clearly open source.
 ## RoadMap
 - [ ] Release 3.2 update.
 - [x] Update linux version.
-- [ ] Make kdialog linux version
-- [ ] Make Linux mobile version
-- [ ] Make Android version
+- [ ] Make touch version
+- [ ] Make Android native version
 - [ ] Make Debian LiveCD with batusLin.sh and android-platform-tools
 - [x] Make MacOS x86 verison (or port linux ver)
 - [ ] All tasks complited :tada:

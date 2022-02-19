@@ -3,6 +3,9 @@ Bat script, wich contains many useful cmd commands in one place.
 
 Russian and english version now
 
+# Development has slowed down a bit. BatusLinux.sh is currently under development in priority. No ETA for when the project will be updated again.
+Im so sorry >_<
+
 ## Installing and running
 just run batus.bat.
 

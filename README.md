@@ -3,7 +3,7 @@ Bat script, wich contains many useful cmd commands in one place.
 
 Russian and english version now
 
-# Development has slowed down a bit. BatusLinux.sh is currently under development in priority. No ETA for when the project will be updated again.
+# Development has slowed down a bit. BatusLinux.sh is currently under development in priority. No ETA for when the project will be updated again. All information may be out of date. [Everything relevant here](https://github.com/Russanandres/batus-linux).
 Im so sorry >_<
 
 ## Installing and running
@@ -23,9 +23,12 @@ The source code is clearly open source.
 ## RoadMap
 - [ ] Release 3.2 update.
 - [x] Update linux version.
+- [ ] Make kdialog linux version
 - [ ] Make touch version
+- [x] Batus works on Android in Termux
 - [ ] Make Android native version
-- [ ] Make Debian LiveCD with batusLin.sh and android-platform-tools
+- [x] Make Debian LiveCD with batusLin.sh and android-platform-tools
+- [ ] Make Batus Recovery Project 
 - [x] Make MacOS x86 verison (or port linux ver)
 - [ ] All tasks complited :tada:
 
